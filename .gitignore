@@ -56,5 +56,5 @@ dkms.conf
 
 tmp/
 dump/
-*tracer
-*test
+**tracer
+**test
